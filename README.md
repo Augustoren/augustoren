@@ -1,6 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Augusto Renan</h1>
 <h3 align="center">Engenheiro de Software</h3>
 
+## 🚀 Projetos em Destaque
+- [Plataforma](https://github.com/Augusto-Lucas-Sistemas/plataforma) (na organização **Augusto-Lucas-Sistemas**)
+
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/augustoren](https://github.com/augustoren)
 
 - 💬 Me pergunte sobre **Java, Springboot, NodeJs, Javascript, AWS.**
